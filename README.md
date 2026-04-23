@@ -41,6 +41,8 @@ My journey building AI Employees using OpenClaw — from setup to real automatio
 
 See:  
 CLASS-01/06_Proof_Evidence/whatsapp_proof.png
+CLASS-01/06_Proof_Evidence/memory_test_success.png
+CLASS-01/06_Proof_Evidence/dashboard_status.png
 
 ---
 
