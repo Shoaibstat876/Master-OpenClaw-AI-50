@@ -1,10 +1,20 @@
 # Master-OpenClaw-AI-50
 
-My journey building AI Employees using OpenClaw.
+My journey building AI Employees using OpenClaw — from setup to real automation.
 
 ---
 
-## Structure
+## 🚀 Progress Tracker
+
+| Class   | Status        |
+|--------|--------------|
+| Class-01 | ✅ Completed |
+| Class-02 | ⏳ Pending   |
+| Class-03 | ⏳ Pending   |
+
+---
+
+## 📂 Project Structure
 
 - CLASS-01
   - 01_Instructions
@@ -17,23 +27,23 @@ My journey building AI Employees using OpenClaw.
 
 ---
 
-## Class Status
+## 🧠 What this repo demonstrates
 
-- Class-01: Completed ✅
-- Class-02: Coming soon
-
----
-
-## What this repo shows
-
-- Real OpenClaw setup
-- WhatsApp integration
-- Debugging and troubleshooting
-- Proof with screenshots
-- Structured learning notes
+- Real OpenClaw installation & configuration
+- WhatsApp channel integration
+- Debugging real-world issues (timeouts, gateway, pairing)
+- Proof-based learning (with screenshots)
+- Structured documentation for each class
 
 ---
 
-## Author
+## 📸 Proof
+
+See:  
+CLASS-01/06_Proof_Evidence/whatsapp_proof.png
+
+---
+
+## 👤 Author
 
 Muhammad Shoaib Abdul Shakoor
